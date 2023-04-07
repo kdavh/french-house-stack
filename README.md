@@ -1,5 +1,6 @@
 # Remix French House Stack 🪩
 
+
 ![The Remix French House Stack](./public/french-house-stack.png)
 
 The Remix Stack for Web2, Web3 and
